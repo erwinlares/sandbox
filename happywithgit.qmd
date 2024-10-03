@@ -2,6 +2,8 @@
 title: "Happy Git and GitHub for the R Users code along"
 author: "Erwin Lares"
 output: github_document
+execute:
+  keep-md: true
 ---
 
 ## Quarto
